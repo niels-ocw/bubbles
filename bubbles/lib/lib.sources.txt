@@ -1,0 +1,2 @@
+Lirary Sources:
+Class   -- https://github.com/vrld/hump/blob/master/class.lua
